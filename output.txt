@@ -1,0 +1,12 @@
+NEWS FEED:
+
+Type:	News
+Body:	It is freezing today!!
+City:	Minsk
+Publish time:	09/02/2022 13.56
+
+Type:	Private Ad
+Body:	Buy any bike.
+Expiration date:	20/03/2021
+Days to expire:	-327
+
